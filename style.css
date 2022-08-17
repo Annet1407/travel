@@ -1,0 +1,505 @@
+.section {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.menu__list {
+  display: flex;
+}
+.menu__item {
+  font-size: 40px;
+  font-weight: 600;
+  color: white;
+  margin-right: 64px;
+  position: relative;
+  bottom: 890px;
+  left: 300px;
+}
+.menu a {
+  text-decoration: none;
+  color: white;
+}
+
+.one-section__img-lighthouse {
+  width: 1600px;
+  height: 800px;
+}
+.one-section__paragrah {
+  position: relative;
+  bottom: 600px;
+  left: 100px;
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+}
+.one-section__paragrah1 {
+  position: relative;
+  bottom: 500px;
+  left: 100px;
+  color: white;
+  font-size: 35px;
+  font-weight: 600;
+}
+.one-section__button {
+  color: white;
+  background-color: orange;
+  position: relative;
+  bottom: 450px;
+  left: 100px;
+  font-size: 35px;
+  width: 350px;
+  border: 5px solid black;
+}
+
+.country__item {
+  display: flex;
+}
+.country__name {
+  font-size: 30px;
+  color: white;
+  position: relative;
+  bottom: 400px;
+  left: 200px;
+  margin-right: 50px;
+}
+
+hr {
+  height: 5px;
+  width: 43%;
+  color: orange;
+  background-color: orange;
+  position: relative;
+  bottom: 350px;
+  right: 250px;
+}
+
+.circle__item {
+  width: 20px;
+  height: 20px;
+  margin-right: 130px;
+  background-color: red;
+  border-radius: 200px;
+  position: relative;
+  bottom: 370px;
+  left: 250px;
+}
+
+.section1 {
+  width: 1600px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.black {
+  width: 1600px;
+  height: 400px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(90deg, rgb(0, 0, 0) 50%, rgb(71, 51, 38) 71%, rgb(24, 29, 3) 92%);
+}
+.black__1 {
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+  top: 0px;
+  left: 100px;
+}
+.black__2 {
+  color: white;
+  font-size: 26px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+
+.section2 {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.darkblue {
+  width: 1600px;
+  height: 800px;
+  background: rgb(32, 45, 92);
+}
+.darkblue__mountain {
+  width: 600px;
+  height: 400px;
+  position: relative;
+  bottom: 330px;
+  left: 100px;
+}
+.darkblue__mountain1 {
+  width: 600px;
+  height: 700px;
+  position: relative;
+  bottom: 330px;
+  left: 320px;
+}
+.darkblue__travel {
+  -ms-writing-mode: tb-rl;
+      writing-mode: vertical-rl;
+  transform: rotate(-180deg);
+  position: relative;
+  bottom: 650px;
+  left: 750px;
+  font-size: 100px;
+  font-weight: 600;
+  color: white;
+}
+.darkblue__text {
+  position: relative;
+  bottom: 600px;
+  left: 100px;
+  font-size: 40px;
+  font-weight: 600;
+  color: white;
+}
+.darkblue__text1 {
+  position: relative;
+  bottom: 750px;
+  left: 800px;
+  font-size: 28px;
+  color: white;
+}
+.darkblue__button {
+  width: 300px;
+  height: 45px;
+  position: relative;
+  bottom: 680px;
+  left: 800px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  background-color: orange;
+  border: 3px solid black;
+}
+
+.section3 {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.grayblock {
+  width: 1600px;
+  height: 800px;
+  background: gray;
+}
+.grayblock__northern {
+  width: 450px;
+  height: 650px;
+  position: relative;
+  bottom: 70px;
+}
+.grayblock__mountains {
+  width: 450px;
+  height: 650px;
+  position: relative;
+  top: 60px;
+  left: 696px;
+}
+.grayblock__text {
+  font-size: 50px;
+  font-weight: 600;
+  position: relative;
+  bottom: 640px;
+  left: 5px;
+  text-align: center;
+}
+.grayblock__text1 {
+  font-size: 30px;
+  position: relative;
+  bottom: 300px;
+  left: 500px;
+}
+
+.list__item {
+  margin-right: 10px;
+  font-size: 30px;
+  font-style: oblique;
+  list-style-type: square;
+  list-style-position: inside;
+  position: relative;
+  bottom: 600px;
+  left: 500px;
+  color: white;
+}
+
+.section4 {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.blue {
+  width: 1600px;
+  height: 800px;
+  background: rgb(32, 45, 92);
+}
+.blue__map {
+  width: 750px;
+  height: 550px;
+  position: relative;
+  top: 50px;
+  left: 700px;
+  border: 0px solid black;
+}
+.blue__text {
+  font-size: 60px;
+  font-weight: 600px;
+  color: white;
+  position: relative;
+  bottom: 400px;
+  left: 100px;
+}
+.blue__text1 {
+  font-size: 25px;
+  color: white;
+  position: relative;
+  bottom: 290px;
+  left: 100px;
+}
+.blue__text2 {
+  font-size: 25px;
+  font-style: oblique;
+  color: white;
+  position: relative;
+  bottom: 150px;
+  left: 700px;
+}
+.blue__text3 {
+  -ms-writing-mode: tb-rl;
+      writing-mode: vertical-rl;
+  transform: rotate(-180deg);
+  position: relative;
+  bottom: 620px;
+  left: 1470px;
+  font-size: 100px;
+  font-weight: 600;
+  color: black;
+}
+.blue__button {
+  width: 300px;
+  height: 45px;
+  position: relative;
+  bottom: 600px;
+  left: 100px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  background-color: orange;
+  border: 3px solid black;
+}
+
+.marker__1 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 700px;
+  left: 1200px;
+}
+.marker__2 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 700px;
+  left: 1100px;
+}
+.marker__3 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 700px;
+  left: 900px;
+}
+.marker__4 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 600px;
+  left: 1400px;
+}
+.marker__5 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 800px;
+  left: 1100px;
+}
+.marker__6 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 700px;
+  left: 1000px;
+}
+.marker__7 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 1000px;
+  left: 1200px;
+}
+.marker__8 {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  bottom: 1200px;
+  left: 1300px;
+}
+
+.section5 {
+  width: 1600px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.black1 {
+  width: 1600px;
+  height: 400px;
+  background: black;
+}
+.black1__text {
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+  position: relative;
+  top: 30px;
+  left: 900px;
+}
+.black1__text1 {
+  color: white;
+  font-size: 30px;
+  position: relative;
+  top: 60px;
+  left: 800px;
+}
+
+.star__item {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  bottom: 130px;
+  left: 1200px;
+}
+
+.section6 {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.gray1 {
+  width: 1600px;
+  height: 800px;
+  background: gray;
+}
+.gray1__forest {
+  width: 600px;
+  height: 800px;
+  position: relative;
+  bottom: 200px;
+}
+.gray1__bridge {
+  width: 500px;
+  height: 400px;
+  position: relative;
+  bottom: 370px;
+  left: 270px;
+}
+.gray1__text {
+  font-size: 35px;
+  font-weight: 600;
+  position: relative;
+  bottom: 350px;
+  left: 650px;
+}
+.gray1__text1 {
+  font-size: 30px;
+  position: relative;
+  bottom: 300px;
+  left: 650px;
+}
+.gray1__text2 {
+  font-size: 95px;
+  font-weight: 600;
+  position: relative;
+  bottom: 900px;
+  left: 1450px;
+  -ms-writing-mode: tb-rl;
+      writing-mode: vertical-rl;
+  transform: rotate(-180deg);
+  color: white;
+}
+
+.section7 {
+  width: 1600px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+.contact__img {
+  width: 1600px;
+  height: 700px;
+}
+.contact__text {
+  font-size: 50px;
+  text-align: center;
+  position: relative;
+  bottom: 600px;
+  color: white;
+}
+.contact span {
+  font-size: 70px;
+  color: white;
+  font-weight: 600;
+}
+
+.icons {
+  width: 100px;
+  height: 110px;
+}
+.icons__list {
+  display: flex;
+}
+.icons__item {
+  margin-right: 34px;
+  position: relative;
+  bottom: 500px;
+  left: 700px;
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+.menu__list1 {
+  display: flex;
+  position: relative;
+  top: 400px;
+}/*# sourceMappingURL=style.css.map */
